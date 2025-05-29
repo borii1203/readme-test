@@ -38,4 +38,4 @@
 
 ### 링크 걸기
 https://github.com/borii1203
-- [깃허브 프로필 보기(https://github.com/borii1203)]
+- [깃허브 프로필 보기](https://github.com/borii1203)
