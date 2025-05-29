@@ -33,4 +33,9 @@
 - [x] 체크리스트 2
 
 ### 이미지 넣기
+![Image](https://github.com/user-attachments/assets/dd1d98bf-1b4e-4dd8-9713-e59412f53d09)
+<img src="https://github.com/user-attachments/assets/dd1d98bf-1b4e-4dd8-9713-e59412f53d09" style= "width:500px"/>
 
+### 링크 걸기
+https://github.com/borii1203
+- [깃허브 프로필 보기(https://github.com/borii1203)]
